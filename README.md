@@ -1,3 +1,6 @@
+#github-pages
+https://ekaterina-titareva.github.io/week22-react-components/
+
 <img src="./src/readme-img.jpg" height="600"/>
 
 # Getting Started with Create React App
