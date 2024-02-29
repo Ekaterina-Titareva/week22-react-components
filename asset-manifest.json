@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/week22-react-components/static/css/main.791550c3.css",
+    "main.js": "/week22-react-components/static/js/main.532dffb5.js",
+    "index.html": "/week22-react-components/index.html",
+    "main.791550c3.css.map": "/week22-react-components/static/css/main.791550c3.css.map",
+    "main.532dffb5.js.map": "/week22-react-components/static/js/main.532dffb5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.791550c3.css",
+    "static/js/main.532dffb5.js"
+  ]
+}
